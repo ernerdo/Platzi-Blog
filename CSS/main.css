@@ -4,7 +4,7 @@ body {
     font-family: 'Roboto Mono', monospace;
     margin: 0;
     padding: 0;
-    
+
 }
 a {
     text-decoration: none;
@@ -133,4 +133,9 @@ nav .profile-link a {
     border-bottom: 1px solid #cdd2da;  
     padding-bottom: 20px;
     text-align: center;
+}
+.blogs-button {
+    border: 1px solid #47cfac;
+    padding: 10px 15px;
+    font-size: 12px;
 }
